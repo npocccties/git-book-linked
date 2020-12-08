@@ -2,10 +2,9 @@
 
 ここでは、Chibi-CHiLOの世界を紹介します。
 
-
 plantumlのテストです。
 
-```plantuml
+```text
 @startuml
 actor :ユーザー:
 @enduml
@@ -14,3 +13,4 @@ actor :ユーザー:
 ## ChibiCHiLOとつながる
 
 ここでは、ChibiCHiLOの世界とつながる方法について書きます。
+
