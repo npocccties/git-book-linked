@@ -19,4 +19,5 @@
 ---
 
 * [獲得したデジタルバッジを確認するには](shitadejitarubajjiwosuruniha.md)
+* [ファイル（講義資料の登録）](file.md)
 
