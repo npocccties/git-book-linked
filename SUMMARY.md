@@ -12,6 +12,12 @@
 
 * [CHiLOの構造](creating-chilobook/chilono.md)
 
-## ChibiCHiLOの世界 <a id="World-of-ChibiCHiLO"></a>
+## ChibiCHiLOの世界 <a id="world-of-chibichilo"></a>
 
-* [ChibiCHiLOの世界](World-of-ChibiCHiLO/README.md)
+* [ChibiCHiLOの世界](world-of-chibichilo/world-of-chibichilo.md)
+
+---
+
+* [獲得したデジタルバッジを確認するには](shitadejitarubajjiwosuruniha.md)
+* [ファイル（講義資料の登録）](file.md)
+
