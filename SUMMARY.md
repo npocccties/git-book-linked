@@ -19,5 +19,4 @@
 ---
 
 * [獲得したデジタルバッジを確認するには](shitadejitarubajjiwosuruniha.md)
-* [このサイトの作り方\(GitBookを用いて公開用の簡易的なサイトを作成\)](konosaitonorigitbookwoitenonasaitowo.md)
 
