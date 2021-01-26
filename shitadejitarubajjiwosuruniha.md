@@ -9,7 +9,7 @@ description: >-
 
 バッジを獲得すると、画面右上の通知アイコンに、通知が追加されます。「通知詳細を表示する」をクリックすると、メッセージの内容が表示されます。
 
-aaaaaa
+[aaaaaa](file.md#1-fairunogashinai)
 
 ![](.gitbook/assets/digitalbadge_16%20%281%29.png)
 
